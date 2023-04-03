@@ -50,7 +50,7 @@ body {
 }
 
 /* remove link underline */ 
-a { text-decoration: none; }
+//a { text-decoration: none; }
 
 /* add decorative borders  */
 header {
@@ -63,7 +63,7 @@ header {
 }
 footer {
     @if variable-exists(top-border) { border-top: solid 1px $top-border; }
-    @if variable-exists(nav-pills) { .nav-pills .nav-link.active { background-color: $nav-pills; } }
+    @if variable-exists(nav-pills) { .nav-pills .nav-link.active { background-color: $nav-pills; color: $text-color; } }
     .nav-link { 
         color: rgba(0,0,0,.7);
         &.active { 
