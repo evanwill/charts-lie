@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: Examples of Data Visualization
 nav: Examples
 description: \"a picture is worth a thousand words\"
 ---

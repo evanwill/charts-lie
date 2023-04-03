@@ -1,5 +1,5 @@
 ---
-title: Data Visualization
+title: Data Visualization Definitions
 nav: Viz
 description: Take a quick look at some definitions
 ---
@@ -12,10 +12,12 @@ description: Take a quick look at some definitions
 
 *What are some examples of data?*
 
-## Data Visualization
+## Data Visualization (i.e. Data Viz)
 
 {% include blockquote.html text="visualizations show us data stories by transforming quantitative, relational, or spatial patterns into images. When visualizations are well-designed, they draw our attention to what is most important in the data in ways that would be difficult to communicate through text alone." caption="[from *Hands-On Data Visualization*](https://handsondataviz.org/introduction.html)" %}
 
 {% include blockquote.html text="Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Additionally, it provides an excellent way for employees or business owners to present data to non-technical audiences without confusion. In the world of Big Data, data visualization tools and technologies are essential to analyze massive amounts of information and make data-driven decisions." caption='from Tableau, ["What Is Data Visualization? Definition, Examples, And Learning Resources"](https://www.tableau.com/learn/articles/data-visualization)' %}
 
 *Where are some places you see data visualizations?*
+
+*Why are data visualizations so important?*
