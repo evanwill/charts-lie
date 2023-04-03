@@ -40,13 +40,22 @@ Look at the example *line chart* above to identify the basic elements of a data 
 
 ## Explore Examples
 
+Catalogues of visualization types:
+
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [Periodic Table of Visualization Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 - [Data to Viz](https://www.data-to-viz.com/)
-- [Data and information visualization, on Wikipedia](https://en.wikipedia.org/wiki/Data_and_information_visualization)
-- [Gapminder resources](https://www.gapminder.org/resources/)
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 - [Data Viz Project](https://datavizproject.com/#)
-- [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
+
+Some visualizations:
+
+- [Data and information visualization, on Wikipedia](https://en.wikipedia.org/wiki/Data_and_information_visualization)
+- [Pudding](https://pudding.cool/) (e.g. check Moscow on [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/))
+- [Flowing Data](https://flowingdata.com/)
+- [Information is Beautiful](https://informationisbeautiful.net/)
+- [Junk Charts](https://junkcharts.typepad.com/)
+- [Gapminder resources](https://www.gapminder.org/resources/)
+- [Tableau Public](https://public.tableau.com/app/discover)
 
 [Create your own example at RAWGraphs](https://app.rawgraphs.io/){:.btn .btn-lg .btn-outline-success .my-5}
