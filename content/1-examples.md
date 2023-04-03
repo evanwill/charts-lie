@@ -9,17 +9,17 @@ description: \"a picture is worth a thousand words\"
 <script>
     const svg = document.getElementById('line-chart');
     const lineChart = new chartXkcd.Line(svg, {
-  title: 'Monthly income of an indie developer', // optional
-  xLabel: 'Month', // optional
-  yLabel: '$ Dollars', // optional
+  title: 'Example Line Chart (source: fake data)', // optional
+  xLabel: 'Some Unit', // optional
+  yLabel: 'Some Number', // optional
   data: {
-    labels: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'],
+    labels: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12'],
     datasets: [{
-      label: 'Plan',
-      data: [30, 70, 200, 300, 500, 800, 1500, 2900, 5000, 8000],
+      label: 'Going Up Wow!',
+      data: [30, 70, 200, 300, 500, 800, 950, 1500, 2000, 2900, 5000, 8000],
     }, {
-      label: 'Reality',
-      data: [0, 1, 30, 70, 80, 100, 50, 80, 40, 150],
+      label: 'Staying the Same',
+      data: [0, 1, 170, 270, 180, 300, 250, 480, 540, 150, 170, 80],
     }],
   },
   options: { // optional
@@ -28,6 +28,9 @@ description: \"a picture is worth a thousand words\"
   }
 })
 </script>
+
+<small>(created using [chart.xkcd](https://github.com/timqian/chart.xkcd))</small>
+{:.mb-5}
 
 Look at the example *line chart* above to identify the basic elements of a data visualization. 
 
