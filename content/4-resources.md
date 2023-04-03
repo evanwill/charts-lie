@@ -19,6 +19,14 @@ nav: Resources
 - [Datawrapper](https://www.datawrapper.de/) (embeddable visualizations)
 - [Google Charts](https://developers.google.com/chart) (integrated with Sheets)
 
+## Choosing a Visualization Type
+
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/)
+- [Periodic Table of Visualization Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+- [Data to Viz](https://www.data-to-viz.com/)
+- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+- [Data Viz Project](https://datavizproject.com/#)
+
 ## Reference
 
 - Nathan Yau, ["How to Spot Visualization Lies", Flowing Data](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/), 2017.
