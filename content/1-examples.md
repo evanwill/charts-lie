@@ -1,6 +1,7 @@
 ---
 title: Examples
 nav: Examples
+description: \"a picture is worth a thousand words\"
 ---
 
 <svg id="line-chart"></svg>
@@ -44,3 +45,5 @@ Look at the example *line chart* above to identify the basic elements of a data 
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 - [Data Viz Project](https://datavizproject.com/#)
 - [A Map of Places in the US with the Same Name](https://pudding.cool/2023/03/same-name/)
+
+[Create your own example at RAWGraphs](https://app.rawgraphs.io/){:.btn .btn-lg .btn-outline-success .my-5}

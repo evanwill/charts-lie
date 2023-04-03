@@ -1,10 +1,8 @@
 ---
 title: Data Visualization
 nav: Viz
-topics: Data; Data Visualization; Literacy
+description: Take a quick look at some definitions
 ---
-
-First, let's take a quick look at some definitions:
 
 # Data
 

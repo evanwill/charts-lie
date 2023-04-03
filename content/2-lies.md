@@ -1,6 +1,7 @@
 ---
 title: How Charts Lie
 nav: Lies
+description: Why Critical Literacy is Critical!
 ---
 
 Like "the numbers" or "the stats", data visualizations are very convincing!
@@ -15,7 +16,7 @@ In *How Charts Lie: Getting Smarter about Visual Information* (2019), Alberto Ca
 - concealing or confusing uncertainty
 - suggesting misleading patterns
 
-We need to carefully evaluate and interpret visualizations to ensure we are getting the correct information and are able to avoid misleading information. 
+We need to carefully evaluate and interpret visualizations to ensure we are *reading* the correct information and are able to avoid misleading information. 
 A critical eye is necessary!
 
 ## Critical Data Visualization Literacy
