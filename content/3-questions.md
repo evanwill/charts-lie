@@ -46,6 +46,8 @@ Visualizations are summarizing and abstracting data so that we can understand co
 However, this process can incorrectly omit or cherry-pick (such as removing data to smooth trends, limit scope, binning) to present only the most convincing slice of the data.
 This is often confounded statistical bias and our own confirmation bias. 
 
+{% include figure.html img="https://imgs.xkcd.com/comics/state_word_map.png" alt="comic map of USA with words across each state saying that you can manipulate the data to say anything" caption='<a href="https://xkcd.com/1845/">xkcd State Word Map</a>' %}
+
 ## Are the patterns misleading?
 
 Are the trends or variables depicted in the visualization actually related? 
