@@ -1,1 +1,20 @@
 /* add your tweaks here! */
+.include-blockquote {
+    border: 1px solid #828282;
+    margin: 2rem 0rem 2rem 0rem;
+    padding: 2rem;
+    > :last-child {
+        margin-bottom: 0;
+    }
+    .blockquote-footer {
+        margin-top: 0;
+        p { 
+            display: inline;
+        }
+    }
+
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 2rem;
+}

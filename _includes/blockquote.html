@@ -1,0 +1,21 @@
+{% comment %}
+
+    Bootstrap Blockquote, https://getbootstrap.com/docs/5.3/content/typography/#blockquotes
+
+    e.g. --> {% include blockquote.html text="A well-known quote, contained in a blockquote element." caption="Author, Source title" %}
+
+    Options: 
+    - "text" = text for the quote, can use Markdown
+    - "caption" = a caption, usually the source, will be displayed in different style below
+    - "align" = text alignment (center, end, start)
+
+{% endcomment %}
+<figure class="include-blockquote {% if include.align %}text-{{ include.align }}{% endif %}">
+    <blockquote class="blockquote">
+        {{ include.text | markdownify }}
+    </blockquote>
+    {% if include.caption %}
+    <figcaption class="blockquote-footer">
+        {{ include.caption | markdownify }}
+    </figcaption>{% endif %}
+</figure>
