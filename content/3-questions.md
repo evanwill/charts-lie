@@ -2,6 +2,7 @@
 title: How to Evaluate Visualizations
 nav: Questions
 description: Questions we can ask to start critically evaluating data visualizations
+gallery: true
 ---
 
 ## Is source data cited?
@@ -16,7 +17,7 @@ Try to think about biases:
 What biases are in the data? What biases did the visualization creator introduce and what are your own that impact interpretation?
 Are text descriptions biasing your impression of the data?
 
-{% include figure.html img="https://imgs.xkcd.com/comics/convincing.png" alt="comic shows a couple breaks up because one does not label the axis of her chart" caption='<a href="https://xkcd.com/833/">xkcd Convincing</a>' %}
+{% include gallery-figure.html img="https://imgs.xkcd.com/comics/convincing.png" alt="comic shows a couple breaks up because one does not label the axis of her chart" caption='<a href="https://xkcd.com/833/">xkcd Convincing</a>' %}
 
 ## Is the visualization well designed?
 
@@ -33,7 +34,7 @@ Is there too many variables or data points (e.g. "spaghetti charts")?
 
 Are statical elements used correctly (e.g. trend lines tweaked to change your perception of the data)?
 
-{% include figure.html img="https://imgs.xkcd.com/comics/curve_fitting.png" alt="comic showing a series of the same line chart with wildly different trend lines drawn through" caption='<a href="https://xkcd.com/2048/">xkcd Curve-Fitting</a>' %}
+{% include gallery-figure.html img="https://imgs.xkcd.com/comics/curve_fitting.png" alt="comic showing a series of the same line chart with wildly different trend lines drawn through" caption='<a href="https://xkcd.com/2048/">xkcd Curve-Fitting</a>' %}
 
 ## Is the scale correct?
 
@@ -46,7 +47,7 @@ Visualizations are summarizing and abstracting data so that we can understand co
 However, this process can incorrectly omit or cherry-pick (such as removing data to smooth trends, limit scope, binning) to present only the most convincing slice of the data.
 This is often confounded statistical bias and our own confirmation bias. 
 
-{% include figure.html img="https://imgs.xkcd.com/comics/state_word_map.png" alt="comic map of USA with words across each state saying that you can manipulate the data to say anything" caption='<a href="https://xkcd.com/1845/">xkcd State Word Map</a>' %}
+{% include gallery-figure.html img="https://imgs.xkcd.com/comics/state_word_map.png" alt="comic map of USA with words across each state saying that you can manipulate the data to say anything" caption='<a href="https://xkcd.com/1845/">xkcd State Word Map</a>' %}
 
 ## Are the patterns misleading?
 
@@ -57,6 +58,6 @@ In fact, random processes rarely appear random--we want to make data into a stor
 
 Other common issues are incorrectly using absolute vs relative values, e.g. distributions on a map that simply match population density, dollar amounts compared without inflation, or failing to use per population. 
 
-{% include figure.html img="https://imgs.xkcd.com/comics/heatmap.png" alt="comic showing three maps with the same pattern that matches population density" caption='<a href="https://xkcd.com/1138/">xkcd Heatmap</a>' %}
+{% include gallery-figure.html img="https://imgs.xkcd.com/comics/heatmap.png" alt="comic showing three maps with the same pattern that matches population density" caption='<a href="https://xkcd.com/1138/">xkcd Heatmap</a>' %}
 
-{% include figure.html img="https://imgs.xkcd.com/comics/base_rate.png" alt="comic showing a bar chart with 90% right handed people causing 90% of errors" caption='<a href="https://xkcd.com/2476/">xkcd Base Rate</a>' %}
+{% include gallery-figure.html img="https://imgs.xkcd.com/comics/base_rate.png" alt="comic showing a bar chart with 90% right handed people causing 90% of errors" caption='<a href="https://xkcd.com/2476/">xkcd Base Rate</a>' %}
