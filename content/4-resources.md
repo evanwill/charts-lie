@@ -37,3 +37,11 @@ nav: Resources
 - Micah Bowers, ["Numbers Shouldn't Lie: An Overview of Common Data Visualization Mistakes"](https://www.toptal.com/designers/ux/data-visualization-mistakes), Toptal Design.
 - Jackie Fleming, ["A Librarian’s Tips for Reading Visual Information"](https://scimaps.org/learning-center/blogs/2021/11-19/a-librarians-tips-for-reading-visual-information), 2021.
 - Katy Börner, Andreas Bueckle, and Michael Ginda, ["Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments"](https://doi.org/10.1073/pnas.1807180116), PNAS 2019.
+
+## Some Bad Examples
+
+- [When Data Visualization Really Isn’t Useful (and When It Is)](https://www.oldstreetsolutions.com/good-and-bad-data-visualization)
+- [Remove Your Rose Tinted Glasses: Data Visualizations Designed to Mislead](https://www.datapine.com/blog/misleading-data-visualization-examples/)
+- [Military Expenditures: How Do the Top-Spending Nations Compare?](https://perma.cc/95TB-VW2B) (dual axis chart used out of context)
+- [Mistakes, we’ve drawn a few: Learning from our errors in data visualisation](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
+- [12 Bad Data Visualization Examples Explained](https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/)
